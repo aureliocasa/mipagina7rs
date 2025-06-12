@@ -226,5 +226,9 @@
   <audio controls>
     <source src="audio.mp3" type="audio/mpeg">
   </audio>
+  <h1>Bibliografías</h1>
+<h2>Elías, R. (2020). Las 7Rs de la economía circular: Reducir, reutilizar, reciclar y más. Editorial Verde.</h2>
+<h2>Gómez, L., & Martínez, P. (2019). "Implementación de las 7Rs en la gestión de residuos urbanos: Un enfoque sostenible". Revista de Medio Ambiente y Sostenibilidad, *12*(3), 45-60. https://doi.org/xxxx</h2>
+<h2>EcoInnovación. (2022). Las 7Rs de la economía circular: Guía práctica. https://www.ecoinnovacion.org/7rs-economia-circular</h2>
 </body>
 </html>
